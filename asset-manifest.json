@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NMS-Mission-Generator/static/css/main.f855e6bc.css",
+    "main.js": "/NMS-Mission-Generator/static/js/main.5791ceab.js",
+    "static/js/453.6897e708.chunk.js": "/NMS-Mission-Generator/static/js/453.6897e708.chunk.js",
+    "static/media/logo.svg": "/NMS-Mission-Generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NMS-Mission-Generator/index.html",
+    "main.f855e6bc.css.map": "/NMS-Mission-Generator/static/css/main.f855e6bc.css.map",
+    "main.5791ceab.js.map": "/NMS-Mission-Generator/static/js/main.5791ceab.js.map",
+    "453.6897e708.chunk.js.map": "/NMS-Mission-Generator/static/js/453.6897e708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5791ceab.js"
+  ]
+}
